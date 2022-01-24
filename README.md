@@ -1,7 +1,7 @@
 # Bertelsmann Data Track Series
----
 
-[Notion microsite (still in construction)](https://jeweled-sociology-9d9.notion.site/Bertelsmann-Data-Track-8464afff5a4c427390f5b151b43a7eac)
+---
+[Notion microsite](https://jeweled-sociology-9d9.notion.site/Bertelsmann-Data-Track-8464afff5a4c427390f5b151b43a7eac)
 
 ---
 ## Binder
@@ -20,8 +20,11 @@ This is a repo with jupyter notebooks for the Business Analytics course, I'll tr
 * ✔ Descriptive Statistics - Part II
 * ✔ Spreadsheets 1: Getting Started
 * ✔ Spreadsheets 2: Manipulate Data
-* 🏗 Spreadsheets 3: Analyze Data
+* ✔ Spreadsheets 3: Analyze Data
 * 🏗 Spreadsheets 4: Visualize Data
+
+---
+** The following lessons may or may not be 'translated' into notebooks **
 * 🏗 Business Metrics
 * 🏗 Excel Modeling
 
