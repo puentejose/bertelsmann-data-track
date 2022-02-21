@@ -8,6 +8,8 @@
 
 This is a repo with jupyter notebooks for the Business Analytics course, I'll try to update it every weekend.
 
+Update 02/21/2022: Closed
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/puentejose/bertelsmann-data-track.git/HEAD)
 
 * Click the binder badge to go to your own instance, then double-click the notebook you want to launch.
@@ -21,11 +23,6 @@ This is a repo with jupyter notebooks for the Business Analytics course, I'll tr
 * ✔ Spreadsheets 1: Getting Started
 * ✔ Spreadsheets 2: Manipulate Data
 * ✔ Spreadsheets 3: Analyze Data
-* 🏗 Spreadsheets 4: Visualize Data
-
----
-** The following lessons may or may not be 'translated' into notebooks **
-* 🏗 Business Metrics
-* 🏗 Excel Modeling
+* ✔ Spreadsheets 4: Visualize Data
 
 ---
